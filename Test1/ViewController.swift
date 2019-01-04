@@ -8,7 +8,7 @@
 
 
 
-// TO DO :   NAN MUSS VERSCHWINDEN
+// TO DO :   NAN MUSS VERSCHWINDEN - 2ter Versuch
 
 import UIKit
 
