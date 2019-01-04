@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Test1
 //
-//  Created by Dündar Bas on 23.12.18.
+//  Created by Duendar Bas on 23.12.18.
 //  Copyright © 2018 Duendar Bas. All rights reserved.
 //
 
