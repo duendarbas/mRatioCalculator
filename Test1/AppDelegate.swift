@@ -5,7 +5,7 @@
 //  Created by Duendar Bas on 23.12.18.
 //  Copyright © 2018-2019 Duendar Bas. All rights reserved.
 //
-// TO DO: NAN MUSS VERSCHWINDEN - 2ter Versuch
+// TO DO: NAN MUSS VERSCHWINDEN - 3. Versuch
 
 import UIKit
 
